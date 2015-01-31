@@ -57,3 +57,9 @@ s := stringcase.ToPropertyCase("Hello world")
 s := stringcase.ToHeaderCase("Hello world")
 // Hello-World
 ```
+
+## Documention
+
+Online documentation, which includes examples, can be found at: http://godoc.org/github.com/reiver/go-stringcase
+
+[![GoDoc](https://godoc.org/github.com/reiver/go-stringcase?status.svg)](https://godoc.org/github.com/reiver/go-stringcase)
