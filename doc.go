@@ -2,13 +2,21 @@
 Package stringcase makes it so you can convert strings to different casing styles:
 
 * lower case
+
 * UPPER CASE
+
 * Title Case
+
 * camelCase
+
 * PascalCase
+
 * snake_case
+
 * CONST_CASE
+
 * property-case
+
 * Header-Case
 
 Samples
