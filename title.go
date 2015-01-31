@@ -6,6 +6,7 @@ import "strings"
 import "unicode"
 
 
+// ToTitleCase converts the string to 'Title Case' and returns it.
 func ToTitleCase(s string) string {
 
 	// Here we use a similar hack that the Golang strings.Title() func uses,

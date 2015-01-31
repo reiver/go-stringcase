@@ -6,6 +6,7 @@ import "strings"
 import "unicode"
 
 
+// ToCamelCase converts the string to 'camelCase' and returns it.
 func ToCamelCase(s string) string {
 
 	// Here we use a similar hack that the Golang strings.Title() func uses,

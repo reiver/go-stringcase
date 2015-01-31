@@ -6,6 +6,7 @@ import "strings"
 import "unicode"
 
 
+// ToHeaderCase converts the string to 'Header-Case' and returns it.
 func ToHeaderCase(s string) string {
 
 	// Here we use a similar hack that the Golang strings.Title() func uses,

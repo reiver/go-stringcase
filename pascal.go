@@ -6,6 +6,7 @@ import "strings"
 import "unicode"
 
 
+// ToPascalCase converts the string to 'PascalCase' and returns it.
 func ToPascalCase(s string) string {
 
 	// Here we use a similar hack that the Golang strings.Title() func uses,

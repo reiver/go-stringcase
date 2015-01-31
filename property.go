@@ -6,6 +6,7 @@ import "strings"
 import "unicode"
 
 
+// ToPropertyCase converts the string to 'property-case' and returns it.
 func ToPropertyCase(s string) string {
 
 	// Convert.

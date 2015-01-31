@@ -6,6 +6,7 @@ import "strings"
 import "unicode"
 
 
+// ToConstCase converts the string to 'CONST_CASE' and returns it.
 func ToConstCase(s string) string {
 
 	// Convert.
